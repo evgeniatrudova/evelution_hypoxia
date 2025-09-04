@@ -1,4 +1,4 @@
-numpy
-pandas 
-plotly.graph_objects 
-streamlit 
+streamlit>=1.30
+numpy>=1.24
+pandas>=2.0
+plotly>=5.17
